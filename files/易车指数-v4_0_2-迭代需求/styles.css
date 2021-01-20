@@ -3,7 +3,7 @@
   background-image:none;
   position:relative;
   left:-135px;
-  width:1167px;
+  width:1169px;
   margin-left:auto;
   margin-right:auto;
   text-align:left;
@@ -19,8 +19,8 @@
 #u0 {
   border-width:0px;
   position:absolute;
-  left:140px;
-  top:298px;
+  left:142px;
+  top:259px;
   width:1162px;
   height:491px;
 }
@@ -3843,7 +3843,10 @@
   width:44px;
   height:20px;
   display:flex;
-  color:#D9001B;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:14px;
 }
 #u127 .text {
   position:absolute;
@@ -3874,8 +3877,10 @@
   width:61px;
   height:20px;
   display:flex;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
+  font-weight:700;
+  font-style:normal;
   font-size:14px;
-  color:#D9001B;
 }
 #u128 .text {
   position:absolute;
@@ -3906,8 +3911,10 @@
   width:71px;
   height:20px;
   display:flex;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
+  font-weight:700;
+  font-style:normal;
   font-size:14px;
-  color:#D9001B;
 }
 #u129 .text {
   position:absolute;
@@ -3938,8 +3945,10 @@
   width:52px;
   height:20px;
   display:flex;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
+  font-weight:700;
+  font-style:normal;
   font-size:14px;
-  color:#D9001B;
 }
 #u130 .text {
   position:absolute;
@@ -3970,8 +3979,10 @@
   width:237px;
   height:20px;
   display:flex;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
+  font-weight:700;
+  font-style:normal;
   font-size:14px;
-  color:#D9001B;
 }
 #u131 .text {
   position:absolute;
@@ -4002,8 +4013,11 @@
   width:531px;
   height:20px;
   display:flex;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
+  font-weight:700;
+  font-style:normal;
   font-size:14px;
-  color:#D9001B;
+  color:#000000;
 }
 #u132 .text {
   position:absolute;
@@ -4034,8 +4048,10 @@
   width:166px;
   height:20px;
   display:flex;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
+  font-weight:700;
+  font-style:normal;
   font-size:14px;
-  color:#D9001B;
 }
 #u133 .text {
   position:absolute;
@@ -4722,7 +4738,7 @@
   left:0px;
   top:0px;
   width:468px;
-  height:226px;
+  height:204px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
   border:none;
@@ -4739,7 +4755,7 @@
   left:135px;
   top:47px;
   width:468px;
-  height:226px;
+  height:204px;
   display:flex;
   font-size:18px;
   text-align:left;
