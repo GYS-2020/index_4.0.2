@@ -22,7 +22,7 @@
   left:0px;
   top:0px;
   width:1195px;
-  height:1333px;
+  height:1124px;
   background:inherit;
   background-color:rgba(242, 242, 242, 1);
   border:none;
@@ -37,7 +37,7 @@
   left:11px;
   top:8px;
   width:1195px;
-  height:1333px;
+  height:1124px;
   display:flex;
 }
 #u156 .text {
@@ -63,7 +63,7 @@
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   box-sizing:border-box;
-  border-width:2px;
+  border-width:1px;
   border-style:solid;
   border-color:rgba(121, 121, 121, 1);
   border-radius:0px;
@@ -714,7 +714,7 @@
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   box-sizing:border-box;
-  border-width:2px;
+  border-width:1px;
   border-style:solid;
   border-color:rgba(121, 121, 121, 1);
   border-radius:0px;
@@ -1313,7 +1313,7 @@
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   box-sizing:border-box;
-  border-width:2px;
+  border-width:1px;
   border-style:solid;
   border-color:rgba(121, 121, 121, 1);
   border-radius:0px;
